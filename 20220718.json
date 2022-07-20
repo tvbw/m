@@ -43,6 +43,9 @@
       "ext": "https://gitea.com/99/x/raw/branch/main/huya.js"
     },
     {
+"key":"csp_biubiu_斗鱼","name":"斗鱼🎤","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/718-douyu.js"
+    },
+    {
       "key": "csp_xpath_网络搜集库qiumi",
       "name": "球迷🏀",
       "type": 3,
@@ -61,6 +64,12 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://gitea.com/99/x/raw/branch/main/mtv"
+    },
+    {
+"key": "csp_Bliyc","name":"演唱会🎤","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key": "csp_Blixs","name":"相声🎸","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key": "csp_Blidw","name":"动物🎸","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key": "csp_Blixq","name":"戏曲🎸","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1
     },
     {
       "key": "293视频",
@@ -98,6 +107,12 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+"key":"酷猫","name":"酷猫🐞","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1
+    },
+    {
+"key":"csp_Kuaikan","name":"快看🐞","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1
     },
     {
       "key": "csp_DiDuan",
@@ -147,8 +162,26 @@
       "filterable": 1
     },
     {
+      "key": "Lib",
+      "name": "Libvio🐞",
+      "type": 3,
+      "api": "csp_Lib",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Nfyun",
+      "name": "萘菲🐞",
+      "type": 3,
+      "api": "csp_Nfyun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_Mjxq",
-      "name": "🐞美剧星球",
+      "name": "星球🐞",
       "type": 3,
       "api": "csp_Mjxq",
       "searchable": 1,
